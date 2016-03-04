@@ -7,9 +7,8 @@ Create a web site with a login and sign up navbar.
 A user can come to the site and login, sign up and return to the homepage.
 
 ##Dependencies
-*Bootstrap
-*Jade
-*CSS
+Languages: JavaScript, HTML, CSS
+Frameworks: Jade, Bootstrap, Node, Express
 
 I already had an existing project that met many of the criterea for this challenge, so I used my existing resource. I stripped out the unneded code and restyled it to meet your needs.
 
