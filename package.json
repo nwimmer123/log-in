@@ -1,5 +1,5 @@
 {
-  "name": "read-it",
+  "name": "log-in",
   "version": "0.0.0",
   "description": "share books and recommendations",
   "main": "app.js",
@@ -9,15 +9,6 @@
     "start": "node ./bin/www",
 
     "test": "make test"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/nwimmer123/read-it.git"
-  },
-  "author": "nwimmer123",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/nwimmer123/read-it/issues"
   },
   "homepage": "https://github.com/nwimmer123/read-it#readme",
   "dependencies": {
